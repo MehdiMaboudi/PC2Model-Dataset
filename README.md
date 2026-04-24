@@ -26,6 +26,11 @@ While point cloud-to-point cloud registration is well studied, the point cloud-t
 
 The dataset follows a **hybrid design** of six simulated categories and one real category.
 
+<p align="center">
+  <img src="assets/1.png" alt="PC2Model dataset preview" width="40%" />
+  <img src="assets/2.png" alt="PC2Model registration preview" width="40%" />
+</p>
+
 ---
 
 ## 📂 Dataset Structure
@@ -209,11 +214,3 @@ If you use this dataset, please cite:
    year = {2026}
 }
 ```
-# PC2Model-Dataset
-The dataset is publicly accessible at: [Zenodo](https://doi.org/10.5281/zenodo.17581812)
-<p align="center">
-  <img src="assets/1.png" width="45%" />
-  <img src="assets/2.png" width="45%" />
-</p>
-
-=======
