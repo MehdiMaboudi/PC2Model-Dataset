@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="assets/PC2Model Banner.png" alt="PC2Model Banner" width="100%">
 </p>
@@ -186,16 +184,6 @@ The dataset is hosted on Zenodo and can be accessed on [Zenodo](https://zenodo.o
 The dataset is released under an open license. Please refer to the Zenodo page for full licensing terms and conditions.
 
 ---
-
-## Contact
-
-- Mehdi Maboudi — [m.maboudi@tu-braunschweig.de](mailto:m.maboudi@tu-braunschweig.de)
-- Said Harb — [s.harb@tu-braunschweig.de](mailto:s.harb@tu-braunschweig.de)
-- Jackson Ferrao — [j.ferrao@tu-braunschweig.de](mailto:j.ferrao@tu-braunschweig.de); [jacksonferrao2222@gmail.com](mailto:jacksonferrao2222@gmail.com)
-- Kourosh Khoshelham — [k.khoshelham@unimelb.edu.au](mailto:k.khoshelham@unimelb.edu.au)
-- Yelda Turkan — [yelda.turkan@oregonstate.edu](mailto:yelda.turkan@oregonstate.edu)
-- Karam Mawas — [k.mawas@tu-braunschweig.de
-  ](mailto:k.mawas@tu-braunschweig.de)
 
 ---
 
