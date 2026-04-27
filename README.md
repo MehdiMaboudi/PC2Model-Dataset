@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<!-- ========================= BANNER ========================= -->
+
 
 <p align="center">
   <img src="assets/PC2Model Banner.png" alt="PC2Model Banner" width="100%">
@@ -172,7 +171,6 @@ PC2Model supports research and development in:
 
 ## Updates & Changelog
 
-- **v1.0 – v1.3** – Internal development versions used for dataset generation, validation, and benchmarking experiments. These versions were not publicly released and were iteratively refined to ensure consistency, data quality, and reproducibility in the final dataset.
 - **v1.4** – First public release of the PC2Model benchmark. This version introduces a refined dataset structure with category-based organization, reference OBJ models, transformed E57 point clouds, and ground truth transformation matrices for each sample.
 
 ---
@@ -190,8 +188,6 @@ The dataset is released under an open license. Please refer to the Zenodo page f
 ---
 
 ## Contact
-
-For questions, feedback, or collaboration, please contact the authors:
 
 - Mehdi Maboudi — [m.maboudi@tu-braunschweig.de](mailto:m.maboudi@tu-braunschweig.de)
 - Said Harb — [s.harb@tu-braunschweig.de](mailto:s.harb@tu-braunschweig.de)
